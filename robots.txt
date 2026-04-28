@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-nc25fb.biggamingwin.online/sitemap.xml
